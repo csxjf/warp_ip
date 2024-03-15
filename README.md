@@ -1,6 +1,8 @@
 # warp
 优选Cloudflare Warp节点并生成用于Clash的WireGuard配置
 
+wget -N https://mirror.ghproxy.com/https://raw.githubusercontent.com/csxjf/warp-ip/main/files/warp-yxip/warp-yxip.sh && bash warp-yxip.sh
+
 不同平台的bash脚本在warp-yxip目录下。取自：https://github.com/Misaka-blog 
 
 # Usage
